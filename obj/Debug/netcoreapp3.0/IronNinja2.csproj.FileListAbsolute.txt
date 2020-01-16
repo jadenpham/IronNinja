@@ -1,0 +1,11 @@
+C:\Users\Owner\Desktop\coding\csharp\ownPrac\IronNinja2\obj\Debug\netcoreapp3.0\IronNinja2.csprojAssemblyReference.cache
+C:\Users\Owner\Desktop\coding\csharp\ownPrac\IronNinja2\obj\Debug\netcoreapp3.0\IronNinja2.AssemblyInfoInputs.cache
+C:\Users\Owner\Desktop\coding\csharp\ownPrac\IronNinja2\obj\Debug\netcoreapp3.0\IronNinja2.AssemblyInfo.cs
+c:\Users\Owner\Desktop\coding\csharp\ownPrac\IronNinja2\bin\Debug\netcoreapp3.0\IronNinja2.exe
+C:\Users\Owner\Desktop\coding\csharp\ownPrac\IronNinja2\bin\Debug\netcoreapp3.0\IronNinja2.deps.json
+C:\Users\Owner\Desktop\coding\csharp\ownPrac\IronNinja2\bin\Debug\netcoreapp3.0\IronNinja2.runtimeconfig.json
+C:\Users\Owner\Desktop\coding\csharp\ownPrac\IronNinja2\bin\Debug\netcoreapp3.0\IronNinja2.runtimeconfig.dev.json
+c:\Users\Owner\Desktop\coding\csharp\ownPrac\IronNinja2\bin\Debug\netcoreapp3.0\IronNinja2.dll
+c:\Users\Owner\Desktop\coding\csharp\ownPrac\IronNinja2\bin\Debug\netcoreapp3.0\IronNinja2.pdb
+c:\Users\Owner\Desktop\coding\csharp\ownPrac\IronNinja2\obj\Debug\netcoreapp3.0\IronNinja2.dll
+c:\Users\Owner\Desktop\coding\csharp\ownPrac\IronNinja2\obj\Debug\netcoreapp3.0\IronNinja2.pdb
